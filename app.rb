@@ -20,3 +20,4 @@ class App < Sinatra::Base
     "Goodbye #{@user_name}."
   end
   
+end 
